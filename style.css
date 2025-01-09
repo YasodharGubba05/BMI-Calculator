@@ -2,3 +2,7 @@ html{
     background-color: lightslategrey;
     color: azure;
 }
+.main{
+    display: flex;
+    justify-content: center;
+}
