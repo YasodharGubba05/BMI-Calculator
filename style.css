@@ -8,11 +8,17 @@ html{
 }
 .input{
      margin-top: 45px; 
-    margin-left: 50px;
+    margin-left: 150px;
 }
 .t{
     font-size: larger;
 }
 #first{
 padding: 10px;
+}
+.t2{
+    font-size: larger;
+}
+#second{
+    padding: 10px;
 }
