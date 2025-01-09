@@ -6,3 +6,13 @@ html{
     display: flex;
     justify-content: center;
 }
+.input{
+     margin-top: 45px; 
+    margin-left: 50px;
+}
+.t{
+    font-size: larger;
+}
+#first{
+padding: 10px;
+}
