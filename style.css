@@ -22,3 +22,9 @@ padding: 10px;
 #second{
     padding: 10px;
 }
+.button{
+    margin-top: 80px;
+    margin-left: 145px;
+    padding: 10px;
+    border-radius: 7px;
+}
