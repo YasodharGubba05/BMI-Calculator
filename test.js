@@ -27,7 +27,6 @@ form.addEventListener("submit",function(e){
           message += "<p>Your weight is in the normal range</p>";
         }
     
-       
         results.innerHTML = message;
     }
     
